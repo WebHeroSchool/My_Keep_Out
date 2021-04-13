@@ -19,12 +19,13 @@ body {
 }
 
 .logo {
-  margin-right: 63%;
+  margin-right: 59%;
   //padding: 40px 0;
   //font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
   width: 190px;
   height: 35px;
   background:url('img/logo.svg');
+  border: dashed 1px red;
 }
 
 .menu {
